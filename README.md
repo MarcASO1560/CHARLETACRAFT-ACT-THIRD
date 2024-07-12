@@ -28,9 +28,13 @@ Al igual que en su precuela, el servidor estará abierto las 24 horas del dia to
 ![CharletaCraft3](img/9.png)
 
   2. El servidor contiene una gigantesca colección de Mods, desde nuevos vehiculos hasta nuevas dimensiones, pasando por mucho más. **Esta vez, la instalación cambia**. Usaremos una nueva herramienta para reducir el proceso y su complejidad; la aplicación [Modrinth](https://modrinth.com/app). Esta nos permitirá instalar todo el paquete de mods a la vez. Si alguno de vosotros habéis jugado al Lethal Company con mods, es muy probable que ya hagáis usado esta herramienta. Debajo hay un pequeño tutorial de como instalarlo para aquellos que lo necesiten.
-    
-     [<img width="600" height="250" src="img/boton.png">](https://drive.google.com/file/d/1QnKjDVWNF30CX7zlVagc_UucrYjbAFyM/view)
 
+
+<p align="center">
+  <a ref="https://drive.google.com/file/d/1QnKjDVWNF30CX7zlVagc_UucrYjbAFyM/view">
+    <img width="512" height="128" src="img/boton.png">
+  </a>
+</p>
 
 ![CharletaCraft3](img/10.png)
 
