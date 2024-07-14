@@ -31,7 +31,7 @@ Al igual que en su precuela, el servidor estará abierto las 24 horas del dia to
 
 
 <p align="center">
-  <a href="https://drive.google.com/file/d/1QnKjDVWNF30CX7zlVagc_UucrYjbAFyM/view">
+  <a href="https://drive.google.com/file/d/1i7YpA6-gHCoU3ba1kJpojTmhBP1YbzKS/view?usp=sharing">
     <img width="512" height="128" src="img/boton.png">
   </a>
 </p>
