@@ -37,6 +37,7 @@ Al igual que en su precuela, el servidor estará abierto las 24 horas del dia to
 </p>
 
 **IP del Servidor:** CharletaCraft3.exaroton.me
+**Para mas información, puedes entrar al servidor de discord de charleta:** [Discord Server](https://discord.gg/mVj6dBzN)
 
 ![CharletaCraft3](img/10.png)
 
