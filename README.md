@@ -36,6 +36,8 @@ Al igual que en su precuela, el servidor estará abierto las 24 horas del dia to
   </a>
 </p>
 
+**IP del Servidor:** CharletaCraft3.exaroton.me
+
 ![CharletaCraft3](img/10.png)
 
   
